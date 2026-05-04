@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **HNikhil**
 
-### 🛡️ Cybersecurity Engineer | 💻 Security Tool Developer | 🔐 Penetration Tester
+### Cybersecurity Learner | Security Tool Builder
 
 > *"Building secure systems and breaking insecure ones - one exploit at a time."*
 
@@ -23,7 +23,7 @@
 class HNikhil:
     def __init__(self):
         self.name = "HNikhil"
-        self.role = "Cybersecurity Engineer"
+        self.role = "Cybersecurity Learner"
         self.education = "BE CSE (Direct Second Year after Diploma)"
         self.location = "Narnaund, Haryana, India"
         self.interests = ["Cybersecurity", "Psychology", "Anime", "Books"]
@@ -55,33 +55,10 @@ class HNikhil:
 
 ## 🛠️ Tech Arsenal
 
-### 🔐 Security Tools & Frameworks
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🚀 Development & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -146,16 +123,14 @@ class HNikhil:
 <tr>
 <td width="50%">
 
-### 🤖 [OWASP Agentic App](https://github.com/hnikhil-dev/VScanX)
+### 🤖 [VScanX](https://github.com/hnikhil-dev/VScanX)
 **AI-powered security testing assistant**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat)
 
-🔹 Automated vulnerability scanning  
-🔹 AI-driven threat detection  
-🔹 Custom security rules  
-🔹 **Open-source contribution**
+Ethical vulnerability scanner for web & network testing
+→ Built to understand detection logic and real-world edge cases
 
 </td>
 <td width="50%">
@@ -191,17 +166,6 @@ class HNikhil:
 **[➡️ Read More Articles](https://owaspagenticapp.hashnode.dev)**
 
 ---
-
-## 🎯 Skills Breakdown
-
-```text
-Cybersecurity        ████████████████████  100%
-Python Development   ███████████████████░   95%
-Web Development      ██████████████████░░   90%
-Penetration Testing  ████████████████░░░░   80%
-Network Security     ███████████████░░░░░   75%
-Reverse Engineering  ████████████░░░░░░░░   60%
-```
 
 ### 📊 Expertise Areas
 
@@ -246,15 +210,6 @@ current_projects:
   - Security Automation Framework
   - Custom Vulnerability Scanner
   - OWASP Agentic App Development
-
-reading_list:
-  - "The Art of Deception" by Kevin Mitnick
-  - "Influence: The Psychology of Persuasion" by Robert Cialdini
-  - "Hacking: The Art of Exploitation" by Jon Erickson
-
-watching:
-  - Anime: Steins;Gate, Code Geass, Death Note
-  - Security: Live pentesting streams, CTF walkthroughs
 ```
 
 ---
@@ -269,8 +224,6 @@ watching:
 
 ---
 
-## 🎨 Personality & Interests
-
 <div align="center">
 
 ### 🧠 Beyond Code
@@ -284,11 +237,6 @@ watching:
 | **Penetration Testing** | 🤫 **Manipulation Psychology** |
 
 </div>
-
-**🎭 Personality Type:** INTJ - The Architect (Introvert)
-
-**💭 Philosophy:**  
-> "The best way to predict the future is to create it securely."
 
 ---
 
@@ -309,15 +257,14 @@ watching:
 
 ## 💬 Let's Talk About
 
+
+## 🎓 About
 ```
-✅ Cybersecurity & Ethical Hacking
-✅ Security Tool Development
-✅ Web Application Security
-✅ Python Automation
-✅ Open Source Contributions
-✅ Technical Writing
-✅ Psychology & Human Behavior
-✅ Anime Recommendations 🎌
+I’m a Computer Engineering student focused on cybersecurity,  
+building tools to understand how systems behave under attack  
+and how they can be secured.
+
+Currently working on practical security projects and strengthening fundamentals.
 ```
 
 **💌 Open to:**
@@ -326,18 +273,6 @@ watching:
 - Freelance Security Consulting
 - Technical Writing Opportunities
 - Speaking Engagements
-
----
-
-## 🎯 2025 Goals
-
-- [ ] Contribute to 5+ major open-source security projects
-- [ ] Publish 50+ technical blog posts
-- [ ] Build and release 3 security tools
-- [ ] Earn 2 advanced security certifications
-- [ ] Win a CTF competition
-- [ ] Reach 10K+ GitHub stars collectively
-- [ ] Get featured in security conferences
 
 ---
 
@@ -351,22 +286,6 @@ watching:
 ![GitHub Stars](https://img.shields.io/github/stars/hnikhil-dev?style=for-the-badge&logo=github&color=22d3ee&labelColor=0d1117)
 
 </div>
-
----
-
-## 🎮 Fun Fact
-
-```javascript
-const HNikhil = {
-  codeAt: "Night 🌙",
-  drinksCoffee: true,
-  favAnime: ["Steins;Gate", "Code Geass", "Death Note"],
-  secretSkill: "Can detect phishing emails from miles away 🎯",
-  motto: "Security is not a product, but a process."
-};
-
-console.log("Press Ctrl+Q on my portfolio for a surprise! 🕹️");
-```
 
 ---
 
@@ -388,6 +307,6 @@ console.log("Press Ctrl+Q on my portfolio for a surprise! 🕹️");
 
 **Made with 💙 and lots of ☕ by HNikhil**
 
-*Last Updated: December 2025*
+*Last Updated: December 2026*
 
 </div>
