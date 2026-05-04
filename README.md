@@ -66,14 +66,6 @@ class HNikhil:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hnikhil-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnikhil-dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnikhil-dev&theme=radical&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" alt="GitHub Streak Stats"/>
 
 </div>
