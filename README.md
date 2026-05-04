@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=100%&lines=Cybersecurity+Learner;Security+Tool+Builder;Building+Practical+Security+Systems;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=435&lines=Cybersecurity+Learner;Security+Tool+Builder;Building+Practical+Security+Systems;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
