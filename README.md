@@ -7,17 +7,17 @@ I build systems to understand how they break — and how they can be secured.
 
 ---
 
-## 🔐 What I Build
+## 🔐 Selected Work
 
-### VScanX
+**VScanX**  
 Ethical vulnerability scanner for web & network security testing  
 → Focused on detection logic, edge cases, and real-world scanning limitations  
 
-### FolderVault
+**FolderVault**  
 Secure offline folder encryption tool (AES-256-GCM + scrypt)  
-→ Built to explore applied cryptography and privacy-first design  
+→ Built to explore applied cryptography and privacy-first system design  
 
-### DocVault
+**DocVault**  
 Secure document management system (React + Supabase)  
 → Focused on authentication, access control, and safe data handling  
 
@@ -25,7 +25,7 @@ Secure document management system (React + Supabase)
 
 ## 🎯 Focus
 
-- Offensive Security (learning + applying)
+- Offensive Security (learning + applying)  
 - Web Application Security  
 - System-level thinking  
 - Secure development practices  
@@ -34,41 +34,16 @@ Secure document management system (React + Supabase)
 
 ## 🧠 Current Direction
 
-- Strengthening fundamentals in cybersecurity  
 - Studying how vulnerabilities actually occur in real systems  
-- Improving tools like VScanX with better detection logic  
-- Building consistency in practical security learning  
-
----
-
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hnikhil-dev&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hnikhil-dev&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnikhil-dev&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hnikhil-dev/hnikhil-dev/output/github-contribution-grid-snake.svg" />
-</p>
+- Improving tools with better detection logic and structure  
+- Building consistency in practical cybersecurity learning  
 
 ---
 
 ## 🔗 Connect
 
 GitHub → https://github.com/hnikhil-dev  
-LinkedIn → https://linkedin.com/in/nikhil-dabhade-602a86286
+LinkedIn → https://linkedin.com/in/nikhil-dabhade-602a86286  
 
 ---
 
