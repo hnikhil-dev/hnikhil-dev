@@ -11,7 +11,7 @@
 [![Blog](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode)](https://owaspagenticapp.hashnode.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cybersecurity+Engineer;Security+Tool+Developer;Penetration+Tester;OWASP+Contributor;Python+%7C+JavaScript+%7C+Bash;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=435&lines=Cybersecurity+Learner;Security+Tool+Builder;Building+Practical+Security+Systems;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
