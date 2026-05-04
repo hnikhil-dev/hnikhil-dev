@@ -1,44 +1,67 @@
-# Nikhil H.
+# Nikhil Dabhade
 
-**Computer Engineering student · Cybersecurity focus · Red Team in progress**
+Cybersecurity-focused Engineering Student  
+Working toward becoming a Red Teamer  
 
-I build security-focused tools and systems — vulnerability scanners, encryption utilities, and secure web applications. My work sits at the intersection of offensive security and practical engineering.
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| **[VScanX](https://github.com/hnikhil-dev/VScanX)** | Ethical vulnerability scanner for web & network security testing. Identifies common attack surfaces with structured reporting. |
-| **[FolderVault](https://github.com/hnikhil-dev/FolderVault)** | Offline folder encryption tool using AES-256-GCM + scrypt. Built for strong local data protection without cloud dependency. |
-| **[DocVault](https://github.com/hnikhil-dev/DocVault)** | Secure document management system built with React and Supabase. Focuses on access control and safe document handling. |
+I build systems to understand how they break — and how they can be secured.
 
 ---
 
-## Focus Areas
+## 🔐 What I Build
 
-- **Offensive Security** — Vulnerability research, ethical hacking, red team methodology
-- **Web Security** — Injection flaws, auth bypass, OWASP top 10
-- **Systems Thinking** — Designing tools that are reliable, minimal, and auditable
-- **Secure Development** — Writing code that considers threat modeling from the start
+### VScanX
+Ethical vulnerability scanner for web & network security testing  
+→ Focused on detection logic, edge cases, and real-world scanning limitations  
 
----
+### FolderVault
+Secure offline folder encryption tool (AES-256-GCM + scrypt)  
+→ Built to explore applied cryptography and privacy-first design  
 
-## Currently
-
-- Deepening knowledge in penetration testing and red team tactics
-- Studying network protocols and low-level exploitation techniques
-- Expanding VScanX with deeper scanning modules
-- Preparing for security certifications (CEH / OSCP path)
+### DocVault
+Secure document management system (React + Supabase)  
+→ Focused on authentication, access control, and safe data handling  
 
 ---
 
-## Connect
+## 🎯 Focus
 
-- GitHub: [github.com/hnikhil-dev](https://github.com/hnikhil-dev)
-- LinkedIn: [linkedin.com/in/hnikhil-dev](https://linkedin.com/in/hnikhil-dev)
+- Offensive Security (learning + applying)
+- Web Application Security  
+- System-level thinking  
+- Secure development practices  
 
 ---
 
-<sub>Building toward a career in red teaming — one tool at a time.</sub>
+## 🧠 Current Direction
+
+- Strengthening fundamentals in cybersecurity  
+- Studying how vulnerabilities actually occur in real systems  
+- Improving tools like VScanX with better detection logic  
+- Building consistency in practical security learning  
+
+---
+
+## 📊 Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hnikhil-dev&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hnikhil-dev&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnikhil-dev&layout=compact&theme=github_dark)
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/hnikhil-dev/hnikhil-dev/blob/output/github-contribution-grid-snake.svg)
+
+--
+
+## 🔗 Connect
+
+GitHub → https://github.com/hnikhil-dev  
+LinkedIn → https://linkedin.com/in/hnikhil-dev  
+
+---
+
+> Building toward red teaming through systems, not shortcuts.
